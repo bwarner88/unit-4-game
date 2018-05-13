@@ -1,0 +1,108 @@
+#header {
+    /* background-color: orange; */
+    color: blue;
+    padding: 15px;
+    width: 25%;
+    margin-bottom: 1%;
+    text-align: center;
+    border: solid;
+    /* border-color: silver; */
+    margin: 1%
+    
+   
+}
+
+body {
+    background-image: url("./../images/background.gif")
+}
+
+#container {
+    color: blue;
+    text-align: center;
+    width: 25%;
+    border: solid;
+    font-size: 14pt;
+    padding: 0;
+    margin: 1%;   
+    
+}
+
+
+
+#guessContainer {
+    /* background-color: orange; */
+    color: blue;
+    width: 25%;
+    margin: 1%;
+    border: solid;
+    
+    /* border-color: silver; */
+   
+}
+
+#winContainer {
+    /* background-color: orange; */
+    color: blue;
+    width: 25%;
+    border: solid;
+    /* border-color: silver; */
+    margin: 1%;
+    font-size: 14pt;
+}
+
+#crystal1 {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid;
+    /* border-color: silver; */
+    
+}
+
+
+
+#crystal2 {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid;
+    /* border-color: silver; */
+    
+}
+
+
+#crystal3 {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid;
+    /* border-color: silver; */
+    
+}
+
+#crystal4 {
+    width: 150px;
+    height: 150px;
+    margin: 1%;
+    border: solid;
+    /* border-color: silver; */
+    
+}
+
+#scoreContainer {
+    /* background-color: orange; */
+    color: blue;
+    margin: 1%;
+    text-align: center;
+    font-size: 16pt;
+    width: 25%;
+    border: solid;
+    /* border-color: silver; */
+}
+
+
+
+
+
+
+
